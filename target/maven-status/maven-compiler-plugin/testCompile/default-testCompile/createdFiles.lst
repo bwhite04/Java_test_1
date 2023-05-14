@@ -1,0 +1,11 @@
+com\example\java\test\junior\developer\JavaTestJuniorDeveloperApplicationTests.class
+com\example\java\test\junior\developer\mapper\CategoryMapperTest.class
+com\example\java\test\junior\developer\controller\LogOutControllerTest.class
+com\example\java\test\junior\developer\controller\CategoryControllerTest.class
+com\example\java\test\junior\developer\controller\QuestionControllerTest.class
+com\example\java\test\junior\developer\service\QuestionServiceTest.class
+com\example\java\test\junior\developer\controller\LanguageControllerTest.class
+com\example\java\test\junior\developer\service\AuthServiceTest.class
+com\example\java\test\junior\developer\service\CategoryServiceTest.class
+com\example\java\test\junior\developer\mapper\QuestionMapperTest.class
+com\example\java\test\junior\developer\controller\AuthControllerTest.class

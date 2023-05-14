@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.java.test.junior.developer.controller.LanguageControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.2 s - in com.example.java.test.junior.developer.controller.LanguageControllerTest
